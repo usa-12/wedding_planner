@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025468776994",
+    "project_id": "final-project-wedding-plan",
+    "storage_bucket": "final-project-wedding-plan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025468776994:android:e7f685efb6df49aaf5007b",
+        "android_client_info": {
+          "package_name": "com.bestapp.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025468776994-328oe29hipkai0n7bmqpf9427hb6polv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2SnueH-t3KWkk43p-5FIwu25I42yI39w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025468776994-328oe29hipkai0n7bmqpf9427hb6polv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
